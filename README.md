@@ -1,6 +1,6 @@
 # MERN expense tracker
 
-Created after following [this])(https://www.youtube.com/watch?v=KyWaXA_NvT0) tutorial.
+Created after following [this](https://www.youtube.com/watch?v=KyWaXA_NvT0) tutorial.
 
 ## Run development
 
